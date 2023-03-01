@@ -29,4 +29,5 @@ Pass a tuple to the find_all() function and Beautiful Soup will find all the ele
 Then by using Pandas library scrapping information stored in DataFrame. After making DataFrame cleaning the data by using pandas library.
 At the end by using Pandas library all information is saved in csv format.
 
-# Conclusion :- Srapping of information of all cameras available on flipkart website using beautifulSoup in python programming on Jupyter Notebook.
+# Conclusion :-
+Srapping of information of all cameras available on flipkart website using beautifulSoup in python programming on Jupyter Notebook.
